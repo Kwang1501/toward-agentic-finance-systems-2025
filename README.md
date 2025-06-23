@@ -1,2 +1,1 @@
-# toward-agentic-finance-systems-2025
-SuperAI Week4 SCBX
+# toward_agentic_finance_systems_workshop_2025
